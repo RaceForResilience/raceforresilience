@@ -1,0 +1,14 @@
+
+.row {
+	margin-bottom: 80px;	
+	
+}
+
+
+li {font-size:77%;} /*renders 10px */
+
+h2 {font-size:138.5%;} /*renders 18px */
+h3 {
+	font-size:108%;
+	font-weight: bold;
+} /*renders 14px */
